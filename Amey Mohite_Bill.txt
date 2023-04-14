@@ -1,0 +1,6 @@
+1 Bread 3 1500
+1 Bread 3 1500
+4 Sweets 2 2000
+Total Amount : 5000
+Discount : 500.0
+Discounted Amount To be paid : 4500.0
